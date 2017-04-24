@@ -2,6 +2,8 @@
 
 Uma opção às encontradas no mercado brasileiro, custo inferior sem perca de qualidade!
 
+![Image3](https://github.com/jeffersonpimenta/Mosfet_Airsoft/blob/master/Imagens/b3f1f9d3-ab8d-42e0-aa62-2d061a06f69a.jpg)
+
 ## Modos de funcionamento
 
 1. Modo espelhamento: Não faz nenhuma programação no modo de disparo.*
@@ -36,8 +38,6 @@ A placa pode ser comprada [aqui](https://www.curtacircuitos.com.br/jeffersonpime
 ![Image1](https://github.com/jeffersonpimenta/Mosfet_Airsoft/blob/master/Imagens/25b99883-8526-48a9-b71d-5fce4ee5051e.jpg)
 
 ![Image2](https://github.com/jeffersonpimenta/Mosfet_Airsoft/blob/master/Imagens/4b9cd20f-e56d-4c0d-8ec8-470f6e57e6d9.jpg)
-
-![Image3](https://github.com/jeffersonpimenta/Mosfet_Airsoft/blob/master/Imagens/b3f1f9d3-ab8d-42e0-aa62-2d061a06f69a.jpg)
 
 ![Image4](https://github.com/jeffersonpimenta/Mosfet_Airsoft/blob/master/Imagens/db6b4417-d40f-46a3-aa1b-f2b30a3f1212.jpg)
 
