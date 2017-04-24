@@ -28,8 +28,9 @@ Uma opção às encontradas no mercado brasileiro, custo inferior sem perca de qual
 ## Arquivos e fotos
 
 * /BRD - Esquemático e desenho da placa
-* /CODE - Código fonte
-* /Imagens - Fotos
+A placa pode ser comprada [aqui](https://www.curtacircuitos.com.br/jeffersonpimenta/Gatilho) 
+* /CODE - [Código fonte](https://github.com/jeffersonpimenta/Mosfet_Airsoft/tree/master/Code)
+* /Imagens - [Fotos](https://github.com/jeffersonpimenta/Mosfet_Airsoft/tree/master/Imagens)
 
 
 ![Image1](https://github.com/jeffersonpimenta/Mosfet_Airsoft/blob/master/Imagens/25b99883-8526-48a9-b71d-5fce4ee5051e.jpg)
