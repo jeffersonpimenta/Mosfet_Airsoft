@@ -11028,7 +11028,7 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <part name="BAT+" library="wirepad" deviceset="WIREPAD" device="SMD5-2,5"/>
 <part name="M-" library="wirepad" deviceset="WIREPAD" device="SMD5-2,5"/>
 <part name="BAT-" library="wirepad" deviceset="WIREPAD" device="SMD5-2,5"/>
-<part name="R3" library="resistor" deviceset="R-EU_" device="R0805" value="1k"/>
+<part name="R3" library="resistor" deviceset="R-EU_" device="R0805" value="10k"/>
 <part name="D2" library="diode" deviceset="ZENER-DIODE" device="SOD80C" value="15v"/>
 <part name="T3" library="transistor-neu-to92" deviceset="*-NPN-" device="SOT23-BEC" technology="MMBT3904LT1" value="BC817"/>
 <part name="T2" library="transistor" deviceset="*-PNP-" device="SOT23-BEC" technology="MMBT3906LT1" value="BC807"/>
@@ -11039,8 +11039,8 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <part name="R7" library="resistor" deviceset="R-EU_" device="R0805" value="100R"/>
 <part name="C1" library="rcl" deviceset="C-EU" device="C0805K" value="100nF"/>
 <part name="Q1" library="transistor-fet" deviceset="FDD4141" device="TO252" value="IRL7843"/>
-<part name="PAD4" library="wirepad" deviceset="WIREPAD" device="SMD5-1,8"/>
-<part name="PAD3" library="wirepad" deviceset="WIREPAD" device="SMD5-1,8"/>
+<part name="PAD1" library="wirepad" deviceset="WIREPAD" device="SMD5-1,8"/>
+<part name="PAD2" library="wirepad" deviceset="WIREPAD" device="SMD5-1,8"/>
 <part name="D1" library="diode" deviceset="MBRA340T3" device="" value="SMCJ16A"/>
 <part name="R1" library="resistor" deviceset="R-EU_" device="R0805" value="1k"/>
 <part name="R2" library="resistor" deviceset="R-EU_" device="R0805" value="10k"/>
@@ -11065,8 +11065,8 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <instance part="R7" gate="G$1" x="187.96" y="60.96" rot="R180"/>
 <instance part="C1" gate="G$1" x="60.96" y="66.04" rot="R180"/>
 <instance part="Q1" gate="G$1" x="226.06" y="60.96" rot="MR180"/>
-<instance part="PAD4" gate="G$1" x="101.6" y="58.42"/>
-<instance part="PAD3" gate="G$1" x="96.52" y="58.42" rot="R180"/>
+<instance part="PAD1" gate="G$1" x="101.6" y="58.42"/>
+<instance part="PAD2" gate="G$1" x="96.52" y="58.42" rot="R180"/>
 <instance part="D1" gate="G$1" x="205.74" y="83.82" rot="R90"/>
 <instance part="R1" gate="G$1" x="86.36" y="58.42" rot="R180"/>
 <instance part="R2" gate="G$1" x="127" y="53.34" rot="R90"/>
@@ -11115,7 +11115,7 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 </net>
 <net name="N$7" class="0">
 <segment>
-<pinref part="PAD4" gate="G$1" pin="P"/>
+<pinref part="PAD1" gate="G$1" pin="P"/>
 <pinref part="R3" gate="G$1" pin="1"/>
 <wire x1="129.54" y1="58.42" x2="127" y2="58.42" width="0.1524" layer="91"/>
 <pinref part="R2" gate="G$1" pin="2"/>
@@ -11186,7 +11186,7 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <net name="N$4" class="0">
 <segment>
 <pinref part="R1" gate="G$1" pin="1"/>
-<pinref part="PAD3" gate="G$1" pin="P"/>
+<pinref part="PAD2" gate="G$1" pin="P"/>
 <wire x1="93.98" y1="58.42" x2="91.44" y2="58.42" width="0.1524" layer="91"/>
 </segment>
 </net>
